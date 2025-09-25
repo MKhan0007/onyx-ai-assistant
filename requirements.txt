@@ -1,0 +1,16 @@
+mem0ai
+litellm
+google-generativeai
+python-dotenv
+langchain
+langchain_google_genai
+langchain-community
+langchain_core
+requests
+opencv-python 
+Pillow
+pyautogui
+deepface
+tf-keras
+langgraph
+cloudinary
