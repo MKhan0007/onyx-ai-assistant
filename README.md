@@ -7,10 +7,6 @@ Onyx AI Assistant is an advanced AI-powered virtual assistant capable of long-te
 > - The **text-based assistant** is available on the `main` branch.
 > - The **speech-based assistant** (supporting voice-to-voice conversation) is available on the `speech-based-assistant` branch.
 
-## Demo
-
-[Loom Video](https://www.loom.com/share/1264867b9c0042f3b5294d2f784d722e?sid=0e645ffb-c3c7-4eec-90ed-a20058b313fc)
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
